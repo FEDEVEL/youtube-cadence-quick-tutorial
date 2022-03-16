@@ -1,0 +1,18 @@
+\t (03:44:20) allegro 17.4 S024 Windows SPB 64-bit Edition
+\t (03:44:20)     Journal start - Mon Mar 14 13:09:56 2022
+\t (03:44:20)         Host=DESKTOP-ABQCKT3 User=rober Pid=19020 CPUs=8
+\t (03:44:20) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (03:44:20) 
+\d (03:44:20) Design opened: D:/FEDEVEL Academy/Youtube/LED - Orcad Quick Tutorial/led0603g.dra
+\i (03:44:20) generaledit 
+\i (03:44:21) zoom fit 
+\i (03:44:21) trapsize 18
+\i (03:44:36) opencd 'D:/FEDEVEL Academy/Youtube/LED - Orcad Quick Tutorial/allegro/led_youtube.brd' 
+\t (03:44:36) Opening existing design...
+\i (03:44:37) trapsize 1666
+\i (03:44:37) trapsize 1709
+\i (03:44:37) trapsize 1721
+\t (03:44:37) Grids are drawn 64.0000, 64.0000 apart for enhanced viewing.
+\i (03:44:37) trapsize 1721
+\t (03:44:37) > Sending response DoneOpenBoard
+\t (03:44:37)     Journal end - Mon Mar 14 13:10:13 2022

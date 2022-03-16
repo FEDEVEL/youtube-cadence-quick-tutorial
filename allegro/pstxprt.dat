@@ -1,0 +1,60 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.4.0 d001Mar-11-2022 at 14:49:54 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='LED_YOUTUBE';
+ POST_TIME='Dec  6 2020 14:07:58';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ D1 'LED SM 0603 3V GREEN_LED0603G_GREEN':;
+
+SECTION_NUMBER 1
+ '@LED_YOUTUBE.LED PROJECT(SCH_1):INS165@LED_SCHLIB.LED SM 0603 3V GREEN.NORMAL(CHIPS)':
+ C_PATH='@led_youtube.\led project\(sch_1):ins165@led_schlib.\led sm 0603 3v green.normal\(chips)',
+ P_PATH='@led_youtube.\led project\(sch_1):page1_ins165@led_schlib.\led sm 0603 3v green.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED SM 0603 3V GREEN_LED0603G_GREEN':;
+
+SECTION_NUMBER 1
+ '@LED_YOUTUBE.LED PROJECT(SCH_1):INS1246@LED_SCHLIB.LED SM 0603 3V GREEN.NORMAL(CHIPS)':
+ C_PATH='@led_youtube.\led project\(sch_1):ins1246@led_schlib.\led sm 0603 3v green.normal\(chips)',
+ P_PATH='@led_youtube.\led project\(sch_1):page1_ins1246@led_schlib.\led sm 0603 3v green.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CONN HEADER VERT 2POS 2.54MM_HDR1X2_1X2 HEADER':;
+
+SECTION_NUMBER 1
+ '@LED_YOUTUBE.LED PROJECT(SCH_1):INS115@LED_SCHLIB.CONN HEADER VERT 2POS 2.54MM.NORMAL(CHIPS)':
+ C_PATH='@led_youtube.\led project\(sch_1):ins115@led_schlib.\conn header vert 2pos 2.54mm.normal\(chips)',
+ P_PATH='@led_youtube.\led project\(sch_1):page1_ins115@led_schlib.\conn header vert 2pos 2.54mm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RES SMD 360 OHM 1% 1/8W 0805_R0805_360R 1%':;
+
+SECTION_NUMBER 1
+ '@LED_YOUTUBE.LED PROJECT(SCH_1):INS140@LED_SCHLIB.RES SMD 360 OHM 1% 1/8W 0805.NORMAL(CHIPS)':
+ C_PATH='@led_youtube.\led project\(sch_1):ins140@led_schlib.\res smd 360 ohm 1% 1/8w 0805.normal\(chips)',
+ P_PATH='@led_youtube.\led project\(sch_1):page1_ins140@led_schlib.\res smd 360 ohm 1% 1/8w 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RES SMD 360 OHM 1% 1/8W 0805_R0805_360R 1%':;
+
+SECTION_NUMBER 1
+ '@LED_YOUTUBE.LED PROJECT(SCH_1):INS1224@LED_SCHLIB.RES SMD 360 OHM 1% 1/8W 0805.NORMAL(CHIPS)':
+ C_PATH='@led_youtube.\led project\(sch_1):ins1224@led_schlib.\res smd 360 ohm 1% 1/8w 0805.normal\(chips)',
+ P_PATH='@led_youtube.\led project\(sch_1):page1_ins1224@led_schlib.\res smd 360 ohm 1% 1/8w 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

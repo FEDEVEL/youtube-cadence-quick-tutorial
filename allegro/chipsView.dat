@@ -1,0 +1,89 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'LED SM 0603 3V GREEN_LED0603G_GREEN';
+  pin
+	 'C':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 'A':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='LED SM 0603 3V GREEN';
+	 VALUE='Green';
+	 BODY_NAME='LED SM 0603 3V GREEN_LED0603G_GREEN';
+	 JEDEC_TYPE='LED0603G';
+	 PHYS_DES_PREFIX='D';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'CONN HEADER VERT 2POS 2.54MM_HDR1X2_1X2 HEADER';
+  pin
+	 '-':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '+':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='CONN HEADER VERT 2POS 2.54MM';
+	 VALUE='1x2 Header';
+	 BODY_NAME='CONN HEADER VERT 2POS 2.54MM_HDR1X2_1X2 HEADER';
+	 JEDEC_TYPE='HDR1X2';
+	 PHYS_DES_PREFIX='J';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'RES SMD 360 OHM 1% 1/8W 0805_R0805_360R 1%';
+  pin
+	 '2':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 PART_NAME='RES SMD 360 OHM 1% 1/8W 0805';
+	 VALUE='360R 1%';
+	 BODY_NAME='RES SMD 360 OHM 1% 1/8W 0805_R0805_360R 1%';
+	 JEDEC_TYPE='R0805';
+	 PHYS_DES_PREFIX='R';
+	 CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

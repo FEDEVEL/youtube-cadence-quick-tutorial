@@ -1,0 +1,7 @@
+#  View replacement method:
+#  Complete
+
+color -globvis off
+color -vis "DRC ERROR CLASS/PASTEMASK_TOP"
+color -vis "PIN/PASTEMASK_TOP"
+color -vis "VIA CLASS/PASTEMASK_TOP"

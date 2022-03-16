@@ -1,0 +1,19 @@
+M48
+INCH
+T01C.011811
+T02C.04724
+;LEADER: 12 
+;HEADER: 
+;CODE  : ASCII 
+;FILE  : led_youtube-1-2.drl for  ... layers TOP and BOTTOM
+;DESIGN: led_youtube.brd
+;T01 Holesize 1. = 11.811024 Tolerance = +0.000000/-0.000000 PLATED MILS Quantity = 1
+;T02 Holesize 2. = 47.240157 Tolerance = +0.000000/-0.000000 PLATED MILS Quantity = 2
+%
+G90
+T01
+X0031102Y0022835
+T02
+X0047244Y0045276
+X0047244Y0035276
+M30

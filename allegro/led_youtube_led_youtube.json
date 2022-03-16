@@ -1,0 +1,56 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [
+		{
+			"Name" : "D2",
+			"C_PATH" : "@led_youtube.\\led project\\(sch_1):ins1246@led_schlib.\\led sm 0603 3v green.normal\\(chips)",
+			"Logical" : "D2",
+			"Physical" : null
+		},
+		{
+			"Name" : "R2",
+			"C_PATH" : "@led_youtube.\\led project\\(sch_1):ins1224@led_schlib.\\res smd 360 ohm 1% 1\/8w 0805.normal\\(chips)",
+			"Logical" : "R2",
+			"Physical" : null
+		}
+	],
+	"Net" : [
+		{
+			"Name" : "DIODE2",
+			"C_PATH" : "@led_youtube.\\led project\\(sch_1):diode2",
+			"Logical" : "DIODE2",
+			"Physical" : null
+		}
+	],
+	"Connection" : [
+		{
+			"Name" : "D2.1",
+			"C_PATH" : "@led_youtube.\\led project\\(sch_1):ins1246@led_schlib.\\led sm 0603 3v green.normal\\(chips):C",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "D2.2",
+			"C_PATH" : "@led_youtube.\\led project\\(sch_1):ins1246@led_schlib.\\led sm 0603 3v green.normal\\(chips):A",
+			"Logical" : "DIODE2",
+			"Physical" : null
+		},
+		{
+			"Name" : "R2.1",
+			"C_PATH" : "@led_youtube.\\led project\\(sch_1):ins1224@led_schlib.\\res smd 360 ohm 1% 1\/8w 0805.normal\\(chips):\\1\\",
+			"Logical" : "+3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "R2.2",
+			"C_PATH" : "@led_youtube.\\led project\\(sch_1):ins1224@led_schlib.\\res smd 360 ohm 1% 1\/8w 0805.normal\\(chips):\\2\\",
+			"Logical" : "DIODE2",
+			"Physical" : null
+		}
+	]
+}

@@ -1,0 +1,17 @@
+"Project Template  Revised: Friday, March 11, 2022"				
+TMP1          Revision: V1I1				
+				
+				
+				
+				
+				
+Robert Feranec				
+				
+"Bill Of Materials          March 16,2022      12:54:08"	Page1			
+				
+Item	Quantity	Reference	Part	Manufacturer PN
+______________________________________________				
+				
+1	2	"D1,D2"	Green	LSM0603453V
+2	1	J1	1x2 Header	22272021
+3	2	"R1,R2"	360R 1%	AC0805FR-07360RL

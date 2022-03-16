@@ -1,0 +1,12 @@
+#  View replacement method:
+#  Complete
+
+color -globvis off
+color -vis "DRC ERROR CLASS/TOP"
+color -vis "ETCH/TOP"
+color -vis "PIN/TOP"
+color -vis "VIA CLASS/TOP"
+color -vis "ANTI ETCH/TOP"
+color -vis "BOUNDARY/TOP"
+color -vis "PLAN/TOP"
+color -vis "CAVITY/TOP"

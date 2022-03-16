@@ -1,0 +1,276 @@
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\BOTL.art' ----   Tue Mar 15 10:48:23 2022
+
+D10   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\PASTEB.art' ----   Tue Mar 15 10:48:23 2022
+
+D10   --> D101
+D11   --> D102
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\PASTET.art' ----   Tue Mar 15 10:48:23 2022
+
+D10   --> D103
+D11   --> D104
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\SOLDERB.art' ----   Tue Mar 15 10:48:23 2022
+
+D11   --> D105
+D12   --> D106
+D10   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\SOLDERT.art' ----   Tue Mar 15 10:48:23 2022
+
+D10   --> D108
+D11   --> D109
+D12   --> D110
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\TOPL.art' ----   Tue Mar 15 10:48:23 2022
+
+D12   --> D111
+D11   --> D112
+D10   --> D113
+D13   --> D114
+D14   --> D115
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\BOTL.art' ----   Tue Mar 15 12:40:51 2022
+
+D10   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\PASTEB.art' ----   Tue Mar 15 12:40:51 2022
+
+D10   --> D101
+D11   --> D102
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\PASTET.art' ----   Tue Mar 15 12:40:51 2022
+
+D10   --> D103
+D11   --> D104
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\SOLDERB.art' ----   Tue Mar 15 12:40:51 2022
+
+D11   --> D105
+D12   --> D106
+D10   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\SOLDERT.art' ----   Tue Mar 15 12:40:51 2022
+
+D10   --> D108
+D11   --> D109
+D12   --> D110
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\TOPL.art' ----   Tue Mar 15 12:40:51 2022
+
+D12   --> D111
+D11   --> D112
+D10   --> D113
+D13   --> D114
+D14   --> D115
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\BOTL.art' ----   Tue Mar 15 12:42:28 2022
+
+D10   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\PASTEB.art' ----   Tue Mar 15 12:42:28 2022
+
+D10   --> D101
+D11   --> D102
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\PASTET.art' ----   Tue Mar 15 12:42:28 2022
+
+D10   --> D103
+D11   --> D104
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\SOLDERB.art' ----   Tue Mar 15 12:42:28 2022
+
+D11   --> D105
+D12   --> D106
+D10   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\SOLDERT.art' ----   Tue Mar 15 12:42:28 2022
+
+D10   --> D108
+D11   --> D109
+D12   --> D110
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\TOPL.art' ----   Tue Mar 15 12:42:28 2022
+
+D12   --> D111
+D11   --> D112
+D10   --> D113
+D13   --> D114
+D14   --> D115
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\BOTL.art' ----   Tue Mar 15 12:44:37 2022
+
+D10   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\PASTEB.art' ----   Tue Mar 15 12:44:37 2022
+
+D10   --> D101
+D11   --> D102
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\PASTET.art' ----   Tue Mar 15 12:44:37 2022
+
+D10   --> D103
+D11   --> D104
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\SOLDERB.art' ----   Tue Mar 15 12:44:37 2022
+
+D11   --> D105
+D12   --> D106
+D10   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\SOLDERT.art' ----   Tue Mar 15 12:44:37 2022
+
+D10   --> D108
+D11   --> D109
+D12   --> D110
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\TOPL.art' ----   Tue Mar 15 12:44:37 2022
+
+D12   --> D111
+D11   --> D112
+D10   --> D113
+D13   --> D114
+D14   --> D115
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\BOTL.art' ----   Tue Mar 15 12:45:34 2022
+
+D10   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\PASTEB.art' ----   Tue Mar 15 12:45:34 2022
+
+D10   --> D101
+D11   --> D102
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\PASTET.art' ----   Tue Mar 15 12:45:34 2022
+
+D10   --> D103
+D11   --> D104
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\SOLDERB.art' ----   Tue Mar 15 12:45:34 2022
+
+D11   --> D105
+D12   --> D106
+D10   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\SOLDERT.art' ----   Tue Mar 15 12:45:34 2022
+
+D10   --> D108
+D11   --> D109
+D12   --> D110
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\TOPL.art' ----   Tue Mar 15 12:45:34 2022
+
+D12   --> D111
+D11   --> D112
+D10   --> D113
+D13   --> D114
+D14   --> D115
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\BOTL.art' ----   Tue Mar 15 12:55:59 2022
+
+D10   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\PASTEB.art' ----   Tue Mar 15 12:55:59 2022
+
+D10   --> D101
+D11   --> D102
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\PASTET.art' ----   Tue Mar 15 12:55:59 2022
+
+D10   --> D103
+D11   --> D104
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\SOLDERB.art' ----   Tue Mar 15 12:55:59 2022
+
+D11   --> D105
+D12   --> D106
+D10   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\SOLDERT.art' ----   Tue Mar 15 12:55:59 2022
+
+D10   --> D108
+D11   --> D109
+D12   --> D110
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Youtube\LED - Orcad Quick Tutorial\allegro\TOPL.art' ----   Tue Mar 15 12:55:59 2022
+
+D12   --> D111
+D11   --> D112
+D10   --> D113
+D13   --> D114
+D14   --> D115
+-----------------------------------------------------------------

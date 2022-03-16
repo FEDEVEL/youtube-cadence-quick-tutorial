@@ -1,0 +1,7 @@
+#  View replacement method:
+#  Complete
+
+color -globvis off
+color -vis "DRC ERROR CLASS/SOLDERMASK_TOP"
+color -vis "PIN/SOLDERMASK_TOP"
+color -vis "VIA CLASS/SOLDERMASK_TOP"

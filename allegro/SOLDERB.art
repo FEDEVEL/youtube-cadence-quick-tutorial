@@ -1,0 +1,35 @@
+G04 ================== begin FILE IDENTIFICATION RECORD ==================*
+G04 Layout Name:  led_youtube.brd*
+G04 Film Name:    SOLDERB*
+G04 File Format:  Gerber RS274X*
+G04 File Origin:  Cadence Allegro 17.4-S024*
+G04 Origin Date:  Tue Mar 15 10:55:34 2022*
+G04 *
+G04 Layer:  VIA CLASS/SOLDERMASK_BOTTOM*
+G04 Layer:  PIN/SOLDERMASK_BOTTOM*
+G04 Layer:  DRC ERROR CLASS/SOLDERMASK_BOTTOM*
+G04 *
+G04 Offset:    (0.0000 0.0000)*
+G04 Mirror:    No*
+G04 Mode:      Positive*
+G04 Rotation:  0*
+G04 FullContactRelief:  No*
+G04 UndefLineWidth:     0.1000*
+G04 ================== end FILE IDENTIFICATION RECORD ====================*
+%FSLAX35Y35*MOMM*%
+%IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
+%ADD11R,.8999X.8999*%
+%ADD12R,1.4X1.1001*%
+%ADD10O,2.1999X1.8001*%
+%LPD*%
+G75*
+G54D10*
+X1200000Y896000D03*
+Y1150000D03*
+G54D11*
+X1650000Y680000D03*
+Y820000D03*
+G54D12*
+Y1195000D03*
+Y1405000D03*
+M02*

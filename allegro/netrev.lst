@@ -1,0 +1,94 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : led_youtube.brd                               )
+(    Software Version : 17.4S013                                      )
+(    Date/Time        : Fri Mar 11 14:49:54 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'd:\fedevel academy\youtube\led - orcad quick tutorial\allegro'
+Design Directory:            'D:/FEDEVEL Academy/Youtube/LED - Orcad Quick Tutorial/allegro'
+Old design name:             'D:/FEDEVEL Academy/Youtube/LED - Orcad Quick Tutorial/allegro/led_youtube.brd'
+New design name:             'D:/FEDEVEL Academy/Youtube/LED - Orcad Quick Tutorial/allegro/led_youtube.brd'
+
+CmdLine: netrev -i d:\fedevel academy\youtube\led - orcad quick tutorial\allegro -y 1 -q netrev_constraint_report.xml D:/FEDEVEL Academy/Youtube/LED - Orcad Quick Tutorial/allegro/#Taaaadz20488.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read d:/fedevel academy/youtube/led - orcad quick tutorial/allegro/pstchip.dat 
+   Finished reading d:/fedevel academy/youtube/led - orcad quick tutorial/allegro/pstchip.dat (00:00:00.04)
+Starting to read d:/fedevel academy/youtube/led - orcad quick tutorial/allegro/pstxprt.dat 
+   Finished reading d:/fedevel academy/youtube/led - orcad quick tutorial/allegro/pstxprt.dat (00:00:00.00)
+Starting to read d:/fedevel academy/youtube/led - orcad quick tutorial/allegro/pstxnet.dat 
+   Finished reading d:/fedevel academy/youtube/led - orcad quick tutorial/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_17.4/share/local/pcb/modules 
+
+PSMPATH =  . 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.4/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.4/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.4/share/pcb/allegrolib/symbols 
+           D:/FEDEVEL Academy/Youtube/LED - Orcad Quick Tutorial 
+
+PADPATH =  . 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.4/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.4/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.4/share/pcb/allegrolib/symbols 
+           D:/FEDEVEL Academy/Youtube/LED - Orcad Quick Tutorial 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Mar 11 14:49:54 2022
+   DESIGN NAME : 'LED_YOUTUBE'
+   PACKAGING ON Dec  6 2020 14:07:58
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:35
+elapsed time  0:00:01
+

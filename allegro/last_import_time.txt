@@ -1,0 +1,8 @@
+2022-03-10T12:47:46 ===> "d:/fedevel academy/youtube/led - orcad quick tutorial/allegro/pstchip.dat"
+2022-03-10T12:47:46 ===> "d:/fedevel academy/youtube/led - orcad quick tutorial/allegro/pstxnet.dat"
+2022-03-10T12:47:46 ===> "d:/fedevel academy/youtube/led - orcad quick tutorial/allegro/pstxprt.dat"
+2022-03-10T12:47:46 ===> "d:/fedevel academy/youtube/led - orcad quick tutorial/allegro/pstdmlmodels.dat"
+2022-03-11T14:49:54 ===> "d:/fedevel academy/youtube/led - orcad quick tutorial/allegro/pstchip.dat"
+2022-03-11T14:49:54 ===> "d:/fedevel academy/youtube/led - orcad quick tutorial/allegro/pstxnet.dat"
+2022-03-11T14:49:54 ===> "d:/fedevel academy/youtube/led - orcad quick tutorial/allegro/pstxprt.dat"
+2022-03-11T14:49:54 ===> "d:/fedevel academy/youtube/led - orcad quick tutorial/allegro/pstdmlmodels.dat"

@@ -1,0 +1,231 @@
+(ExpressProject "LED_Youtube"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S024 (3998392)  [12/6/2021]-[03/12/22]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\led_schlib.olb"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\led_youtube.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_View_Output "TRUE")
+    (DRC_View_Output_Type "2")
+    (DRC_Preserved_Waived "FALSE")
+    (RUN_Online_Rules "TRUE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Check_Single_Node_Nets_Online "TRUE")
+    (DRC_Check_No_Driving_Source_Online "FALSE")
+    (DRC_Check_Duplicate_NetNames_Online "TRUE")
+    (DRC_Check_Off-Page_Connectors_Online "FALSE")
+    (DRC_Check_Ports_Online "FALSE")
+    (DRC_Check_Unconnected_Nets_Online "FALSE")
+    (DRC_Check_Floating_Pins_Online "FALSE")
+    (DRC_Run_Electrical_Reports "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Run_Physical_Rules "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility_Online "FALSE")
+    (DRC_Check_PCB_Footprint_Property_Online "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync_Online "FALSE")
+    (DRC_Check_Incorrect_PinGroup_Assignment_Online "TRUE")
+    (DRC_Check_Missing_Pin_Numbers_Online "TRUE")
+    (DRC_Check_Device_With_No_Pins_Online "FALSE")
+    (DRC_Check_Power_Ground_Short_Online "FALSE")
+    (DRC_Check_Name_Prop_For_HierBlocks_Online "FALSE")
+    (DRC_Run_Physical_Reports "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Run_Custom_Rules "FALSE")
+    (DRC_Report_File
+       "D:\FEDEVEL ACADEMY\YOUTUBE\LED - ORCAD QUICK TUTORIAL\LED_YOUTUBE.DRC")
+    ("Allegro Netlist Output Board File" ".\allegro\led_youtube.brd")
+    (Board_sim_option "VHDL_flow")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "D:\FEDEVEL ACADEMY\YOUTUBE\LED - ORCAD QUICK TUTORIAL\LED_YOUTUBE.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{.ManufacturerPN}")
+    (BOM_Header "Item\tQuantity\tReference\tPart\tManufacturer PN")
+    (BOM_Include_File
+       "D:\FEDEVEL ACADEMY\YOUTUBE\LED - ORCAD QUICK TUTORIAL\LED_YOUTUBE.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Layout"
+    (File ".\allegro\led_youtube.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\led_youtube.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (File ".\led_youtube.drc"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\led_youtube.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile
+         "d:\fedevel academy\youtube\led - orcad quick tutorial\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile
+         "d:\fedevel academy\youtube\led - orcad quick tutorial\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile
+         "d:\fedevel academy\youtube\led - orcad quick tutorial\allegro\eco.txt"))
+    (File ".\allegro\genfeed.log"
+      (Type "Log File")
+      (LogFile
+         "d:\fedevel academy\youtube\led - orcad quick tutorial\allegro\genfeed.log")))
+  (PartMRUSelector
+    ("CONN HEADER VERT 2POS 2.54MM"
+      (FullPartName "CONN HEADER VERT 2POS 2.54MM.Normal")
+      (LibraryName
+         "D:\FEDEVEL ACADEMY\YOUTUBE\LED - ORCAD QUICK TUTORIAL\LED_SCHLIB.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("LED SM 0603 3V GREEN"
+      (FullPartName "LED SM 0603 3V GREEN.Normal")
+      (LibraryName
+         "D:\FEDEVEL ACADEMY\YOUTUBE\LED - ORCAD QUICK TUTORIAL\LED_SCHLIB.OLB")
+      (DeviceIndex "0"))
+    ("RES SMD 360 OHM 1% 1/8W 0805"
+      (FullPartName "RES SMD 360 OHM 1% 1/8W 0805.Normal")
+      (LibraryName
+         "D:\FEDEVEL ACADEMY\YOUTUBE\LED - ORCAD QUICK TUTORIAL\LED_SCHLIB.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "d:\fedevel academy\youtube\led - orcad quick tutorial\led_youtube.dsn")
+      (Path "Design Resources"
+         "d:\fedevel academy\youtube\led - orcad quick tutorial\led_youtube.dsn"
+         "LED Project")
+      (Path "Design Resources"
+         "d:\fedevel academy\youtube\led - orcad quick tutorial\led_youtube.dsn"
+         "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "d:\fedevel academy\youtube\led - orcad quick tutorial\led_schlib.olb")
+      (Path "Layout")
+      (Path "Outputs")
+      (Path "Logs")
+      (Select "Design Resources"
+         "d:\fedevel academy\youtube\led - orcad quick tutorial\led_youtube.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 647"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1709 24 665")
+        (Scroll "-93 162")
+        (Zoom "153")
+        (Occurrence "/"))
+      (Path
+         "D:\FEDEVEL ACADEMY\YOUTUBE\LED - ORCAD QUICK TUTORIAL\LED_YOUTUBE.DSN")
+      (Schematic "LED Project")
+      (Page "LED"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1709 24 665"))
+      (Path
+         "D:\FEDEVEL ACADEMY\YOUTUBE\LED - ORCAD QUICK TUTORIAL\LED_SCHLIB.OLB")
+      (Package "CONN HEADER VERT 2POS 2.54MM")
+      (PartType "1"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1709 24 665"))
+      (Path
+         "D:\FEDEVEL ACADEMY\YOUTUBE\LED - ORCAD QUICK TUTORIAL\LED_SCHLIB.OLB")
+      (Package "RES SMD 360 OHM 1% 1/8W 0805")
+      (PartType "1"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1709 24 665"))
+      (Path
+         "D:\FEDEVEL ACADEMY\YOUTUBE\LED - ORCAD QUICK TUTORIAL\LED_SCHLIB.OLB")
+      (Package "LED SM 0603 3V GREEN")
+      (PartType "1")))
+  (MPSSessionName "rober"))

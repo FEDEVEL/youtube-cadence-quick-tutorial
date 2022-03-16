@@ -1,0 +1,13 @@
+page_setup/unit=Millimeter
+page_setup/paper_size_width=210.000
+page_setup/paper_size_height=297.000
+page_setup/margin_left=12.700
+page_setup/margin_right=12.700
+page_setup/margin_top=12.700
+page_setup/margin_bottom=12.700
+page_setup/header_footer_text_size_width=2.000
+page_setup/header_footer_text_size_height=2.000
+page_setup/header_footer_prefix=LED Project -
+page_setup/header_footer_suffix=
+page_setup/scale_factor=5.000
+page_setup/orientation=portrait
